@@ -1,0 +1,6 @@
+I created a Simple SOC lab in Microsoft Azure in order to practice security configurations and data reading. 
+In support of the SOC lab, I created a honey pot and log analytics workbook to provide data for use in the SOC lab.
+
+Here are snippets of monitoring the failed login attempts on the honey pot, a windows 10 machine.
+
+<img src="https://raw.githubusercontent.com/Holden34/Images/main/Failed%20Logins.png" alt="Failed Logins">
